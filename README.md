@@ -7,4 +7,4 @@ Special focus is given to the long-term effects of the one-child policy and its 
 
 The report concludes by evaluating China’s recent efforts to pivot toward a consumption-driven economy, assessing tools such as interest rate policy, the Required Reserve Ratio (RRR), urbanization incentives, and Hukou system reforms.
 
-All visualizations and regressions were conducted in R, and the analysis integrates data science practices with macroeconomic reasoning to inform policy-oriented conclusions.
+All visualizations were created in a combination of R, Tableau, and Excel. Regressions were conducted in R, and the analysis integrates data science practices with macroeconomic reasoning to inform policy-oriented conclusions.
